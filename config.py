@@ -1,1 +1,1 @@
-db_password = 'ColumbiaDB'
+db_password = 'Fatman1891'
